@@ -46,7 +46,7 @@ Aplikasi web untuk mendigitalkan pelayanan surat di desa, khususnya Surat Ketera
 
 - PRD: [`docs/PRD.pdf`](docs/PRD.pdf)
 - SDD: [`docs/SDD.pdf`](docs/SDD.pdf)
-- Prototipe Figma: [tautan Figma]
+- Prototipe Figma: https://www.figma.com/design/RTl2rVcHjV8xI5z6ROa1fJ/Untitled?node-id=0-1&t=1ldwUibfBQOzGAqS-1
 
 ## Teknologi
 
