@@ -44,7 +44,7 @@ Aplikasi web untuk mendigitalkan pelayanan surat di desa, khususnya Surat Ketera
 
 ## Dokumen
 
-- PRD: [`docs/PRD.pdf`](docs/PRD.pdf)
+- PRD: https://github.com/maulanayusup-dev/proyek-rpl-pelayanan-desa/blob/56a04ceb23fcfa7c8ecba9738bbd4bf9e928529a/SDD_Sistem_Pelayanan_Desa.pdf
 - SDD: https://github.com/maulanayusup-dev/proyek-rpl-pelayanan-desa/blob/bf9a310e4184f9e12160abbfa63fd14a52db8500/PRD_SRS_Sistem_Pelayanan_Desa.pdf
 - Prototipe Figma: https://www.figma.com/design/RTl2rVcHjV8xI5z6ROa1fJ/Untitled?node-id=0-1&t=1ldwUibfBQOzGAqS-1
 
