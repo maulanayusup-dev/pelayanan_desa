@@ -1,16 +1,17 @@
 # Sistem Informasi Pelayanan Desa Digital Terpadu
 
-Proyek Akhir Mandiri — Rekayasa Perangkat Lunak (TIKB2503021)
+Proyek Akhir Mandiri — Rekayasa Perangkat Lunak
+
 Program Studi S1 Teknik Informatika, STMIK IKMI Cirebon
 
 ## Identitas Mahasiswa
 
 | | |
 |---|---|
-| Nama | [Nama Lengkap] |
-| NIM | [NIM] |
-| Kelompok | [Nomor/Nama Kelompok] |
-| Tema Topik Kelompok | [Tema Topik Kelompok] |
+| Nama | Maulana Yusup |
+| NIM | 41257116 |
+| Kelompok | DEVLYN |
+| Tema Topik Kelompok | Pelayanan Desa |
 | Dosen Pengampu | Yudhistira Arie Wijaya, M.Kom., CDS. |
 
 ## Deskripsi Aplikasi
@@ -116,10 +117,10 @@ Buka `http://localhost:8000`.
 ### Akun demo
 | Peran | Email | Password |
 |---|---|---|
-| Masyarakat | [email] | [password] |
-| Staf Desa | [email] | [password] |
-| Kepala Desa | [email] | [password] |
-| Supervisor | [email] | [password] |
+| Masyarakat | masyarakat@desa.id | password |
+| Staf Desa | staf@desa.id | password |
+| Kepala Desa | kades@desa.id | password |
+| Supervisor | supervisor@desa.id | password |
 
 ## Pengujian & CI/CD
 
