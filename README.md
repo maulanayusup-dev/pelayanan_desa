@@ -5,13 +5,13 @@ Program Studi S1 Teknik Informatika, STMIK IKMI Cirebon
 
 ## Identitas Mahasiswa
 
-
-|---------------------|--------------------------------------|
-| Nama                | Maulana Yusup                        |
-| NIM                 | 41257116                             |
-| Kelompok            | DEVLYN                               |
-| Tema Topik Kelompok | Pelayanan Desa                       |
-| Dosen Pengampu      | Yudhistira Arie Wijaya, M.Kom., CDS. |
+| | |
+|---|---|
+| Nama | [Nama Lengkap] |
+| NIM | [NIM] |
+| Kelompok | [Nomor/Nama Kelompok] |
+| Tema Topik Kelompok | [Tema Topik Kelompok] |
+| Dosen Pengampu | Yudhistira Arie Wijaya, M.Kom., CDS. |
 
 ## Deskripsi Aplikasi
 
@@ -35,11 +35,11 @@ Aplikasi web untuk mendigitalkan pelayanan surat di desa, khususnya Surat Ketera
 
 ## Video Presentasi
 
-|                  Tahap                  |           Tautan              |
-|-----------------------------------------|-------------------------------|
+| Tahap | Tautan |
+|---|---|
 | Video Progres 1 — PRD & Konsep Aplikasi | [tautan YouTube/Google Drive] |
 | Video Progres 2 — Pemodelan UML & UI/UX | [tautan YouTube/Google Drive] |
-| Video Final — Live Demo                 | [tautan YouTube/Google Drive] |
+| Video Final — Live Demo | [tautan YouTube/Google Drive] |
 
 ## Dokumen
 
