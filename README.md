@@ -37,15 +37,15 @@ Aplikasi web untuk mendigitalkan pelayanan surat di desa, khususnya Surat Ketera
 
 | Tahap | Tautan |
 |---|---|
-| Video Progres 1 — PRD & Konsep Aplikasi | [tautan YouTube/Google Drive] |
-| Video Progres 2 — Pemodelan UML & UI/UX | [tautan YouTube/Google Drive] |
+| Video Progres 1 — PRD & Konsep Aplikasi | https://youtu.be/Lj8RrQoKI6o?si=k6N4ZEY1JBjpx9O5 |
+| Video Progres 2 — Pemodelan UML & UI/UX | [[tautan YouTube/Google Drive]](https://youtu.be/wXWTCDC7EDw?si=wuTq2zSxgkry1qkK) |
 | Video Final — Live Demo | [tautan YouTube/Google Drive] |
 
 ## Dokumen
 
-- PRD: [`docs/PRD.pdf`](docs/PRD.pdf)
-- SDD: [`docs/SDD.pdf`](docs/SDD.pdf)
-- Prototipe Figma: [tautan Figma]
+- PRD: (https://drive.google.com/file/d/1IieYhq5Rsob5UQ-m8Owuin0ZoyPlpWKy/view?usp=sharing)
+- SDD: (https://drive.google.com/file/d/1DW3RAtKKAf2CKir6hTKK9gL0bIWEylLU/view?usp=sharing)
+- Prototipe Figma: (https://www.figma.com/design/RTl2rVcHjV8xI5z6ROa1fJ/Untitled?node-id=0-1&t=SVvpQc6u1vijxz0T-1)
 
 ## Teknologi
 
@@ -116,10 +116,10 @@ Buka `http://localhost:8000`.
 ### Akun demo
 | Peran | Email | Password |
 |---|---|---|
-| Masyarakat | [email] | [password] |
-| Staf Desa | [email] | [password] |
-| Kepala Desa | [email] | [password] |
-| Supervisor | [email] | [password] |
+| Masyarakat | [masyrakat@desa.id] | [password] |
+| Staf Desa | [staf@desa.id] | [password] |
+| Kepala Desa | [kades@desa.id] | [password] |
+| Supervisor | [supervisor@desa.id] | [password] |
 
 ## Pengujian & CI/CD
 
