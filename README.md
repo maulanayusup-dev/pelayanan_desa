@@ -126,5 +126,3 @@ Buka `http://localhost:8000`.
 ```bash
 php artisan test
 ```
-
-Pipeline GitHub Actions: [`.github/workflows/ci.yml`](.github/workflows/ci.yml) — menjalankan unit test otomatis di setiap push.
