@@ -1,5 +1,7 @@
 # Sistem Pelayanan Desa Online Berbasis AI
 
+[![CI](https://github.com/maulanayusup-dev/pelayanan_desa/actions/workflows/ci.yml/badge.svg)](https://github.com/maulanayusup-dev/pelayanan_desa/actions/workflows/ci.yml)
+
 Proyek Akhir Mandiri — Rekayasa Perangkat Lunak (TIKB2503021)
 Program Studi S1 Teknik Informatika, STMIK IKMI Cirebon
 
