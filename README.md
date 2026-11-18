@@ -38,7 +38,7 @@ Aplikasi web untuk mendigitalkan pelayanan surat di desa, khususnya Surat Ketera
 | Tahap | Tautan |
 |---|---|
 | Video Progres 1 — PRD & Konsep Aplikasi | https://youtu.be/Lj8RrQoKI6o?si=k6N4ZEY1JBjpx9O5 |
-| Video Progres 2 — Pemodelan UML & UI/UX | [[tautan YouTube/Google Drive]](https://youtu.be/wXWTCDC7EDw?si=wuTq2zSxgkry1qkK) |
+| Video Progres 2 — Pemodelan UML & UI/UX | https://youtu.be/wXWTCDC7EDw?si=wuTq2zSxgkry1qkK |
 | Video Final — Live Demo | [tautan YouTube/Google Drive] |
 
 ## Dokumen
